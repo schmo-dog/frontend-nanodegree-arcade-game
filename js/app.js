@@ -98,9 +98,9 @@ Player.prototype.reset = function() {
     this.x = 202;
 };
 
-// Create random number of enemys to put in row. Parimiters are 1 or 2.
+// Create random number of enemys to put in row- min of 1, max of 2.
 var assignRowQuantity = function() {
-    var randomEnemys = Math.floor(Math.random() * (2 - 1 + 1)) + 1;
+    var randomEnemys = Math.floor(Math.random() * 2) + 1;
     if (randomEnemys === 1) {
         return 1;
     }
