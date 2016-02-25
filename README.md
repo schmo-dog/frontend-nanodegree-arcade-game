@@ -1,6 +1,12 @@
-frontend-nanodegree-arcade-game
-===============================
+# frontend-nanodegree-arcade-game
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
+This project is part of the Udacity Frontend Nanodegee program. This is an adaptation to the classic Frogger game.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+### Instructions
+
+* Open index.html file in your browser.
+* Your player will be set in the starting position at the base of the board.
+* To move the player use the arrow keys on the keyboard.
+* The will reset if you have reached the water or a bug has hit you.
+
+Enjoy.
